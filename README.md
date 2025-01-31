@@ -1,4 +1,4 @@
-# <img src="https://www.django-rest-framework.org/img/logo.png" width="400"/>  <img src="https://pytba.readthedocs.io/en/latest/_static/logo2.png" width="400"/> 
+# <img src="https://www.django-rest-framework.org/img/logo.png" width="400"/>  <img src="https://pytba.readthedocs.io/en/latest/_static/logo2.png" width="200"/> 
 
 ## ТЗ Телеграм бот IMEI
 
